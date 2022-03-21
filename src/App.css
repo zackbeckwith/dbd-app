@@ -33,13 +33,19 @@ img {
   color: white;
 }
 
-.App-header > a {
+.App-header {
   text-decoration: none;
   text-align: right;
-  padding-left: 250px;
   font-size: 30px;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.char-icon {
+  display: flex;
+  background-color: grey;
+  border: 1px solid white;
+  padding: 10px;
 }
